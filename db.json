@@ -8,7 +8,8 @@
     {
       "id": 2,
       "name": "Charmander",
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Pok%C3%A9mon_Charmander_art.png/220px-Pok%C3%A9mon_Charmander_art.png"
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Pok%C3%A9mon_Charmander_art.png/220px-Pok%C3%A9mon_Charmander_art.png",
+      "like": "YEAH BOI"
     },
     {
       "id": 3,
@@ -23,12 +24,20 @@
     {
       "name": "Nicochu",
       "image": "https://cdn.hashnode.com/res/hashnode/image/upload/orra3dxp3r20ekk3mrja/1500226062.png?w=400&h=400&fit=crop&crop=faces&auto=compress",
-      "id": 6
+      "id": 6,
+      "like": "YEAH BOI"
     },
     {
-      "name": "Ed",
-      "image": "sdfds",
-      "id": 7
+      "name": "Ben",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2010-kodiak-bear-1.jpg/1200px-2010-kodiak-bear-1.jpg",
+      "id": 8,
+      "like": "YEAH BOI"
+    },
+    {
+      "name": "Sausage",
+      "image": "https://www.irishtimes.com/polopoly_fs/1.4608828.1625132656!/image/image.jpg_gen/derivatives/ratio_16x9_w1200/image.jpg",
+      "id": 9,
+      "like": "YEAH BOI"
     }
   ]
 }
